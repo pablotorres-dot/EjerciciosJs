@@ -5,4 +5,4 @@ let texto = prompt("Ingresá un texto:");
 let primerosCinco = texto.slice(0, 5);
 
 // Mostrar el resultado
-console.log("Los primeros 5 caracteres son:Ingres " + primerosCinco);
+console.log("Los primeros 5 caracteres son: " + primerosCinco);
